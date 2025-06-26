@@ -33,3 +33,9 @@ licence ERC20
       transformation or translation of a Source form, including but
       not limited to compiled object code, generated documentation,
       and conversions to other media types.
+
+
+# NH Token Contract
+- Verified by: Nishant Thaker
+- Code Hash: mg+Y3W+/Il7vgWXk5kQX7pMffuoABlNDnntdzcBkTNY=
+- Verified via https://verifier.ton.org
